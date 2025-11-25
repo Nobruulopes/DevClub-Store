@@ -291,7 +291,7 @@ header nav ul .li:hover::after {
     height: 4px;
     background-color: #fff;
     border-radius: 2px;
-}
+}   
 
 .dot.active {
     background-color: rgb(21, 255, 0, 5);
